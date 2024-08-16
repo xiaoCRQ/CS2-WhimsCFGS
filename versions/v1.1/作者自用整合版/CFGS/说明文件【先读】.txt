@@ -1,0 +1,45 @@
+[[[  陀螺CFG_V1.1使用说明  ]]]
+
+！此CFG会覆盖原有设置，使用之前请先备份原先CFG以防意外！
+
+【更新与调整】
+1.为迎合使用习惯，对默认设置进行了修改
+[默认启用双准星，默认空格大跳，默认不启用陀螺背身黑屏]
+
+【注意事项】
+1.在陀螺模式下，启用和取消旋转会自动停止移动，需要自己重新点击移动  [为适配快速急停]
+2.开镜和收镜尽量的过程尽量不要处在旋转中 [会导致准心错位] [原因：开镜和不开镜的移动值不同导致的偏差]
+
+【安装】
+1.将此文件夹拖入cfg文件夹中，在steam启动项中添加 exec CFGS/0
+【示例路径】【D:\Games\Steam\steamapps\common\Counter-Strike Global Offensive\game\csgo\cfg\CFGS】
+2.将自己的准心配置写入 【settings\crosshair\default.cfg】【一定要做】
+3.在【settings\default.cfg】文件中根据自己的灵敏度修改旋转角度
+4.将【function\resource】文件夹下的所有文件覆盖【CS2的resource】文件夹
+【示例路径】【D:\Games\Steam\steamapps\common\Counter-Strike Global Offensive\game\csgo\resource】
+5.详细内容根据个人喜好在【settings\default.cfg】和【settings\bind.cfg】调整
+
+【使用方法】
+1.按住【CAPSLOCK】打开轮盘，向上拖动为陀螺模式，向下拖动为恢复默认，松开按键选中
+2.在【陀螺模式-绿色HUD】下按住【alt】旋转，松开停止旋转
+3.旋转途中按住【空格】可以自动连跳【仅5e等可以连跳的社区服可以使用】
+5.默认模式下内置【急停cfg】，如需需改别的【急停cfg】可以替换【function\jiting\jiting.cfg】
+6.陀螺模式下内置【特殊急停】，目前只有三种模式可修改，具体在【settings\default.cfg】中修改
+7.【0】按键为重置cfg文件
+8.【！以上所有按键均可以修改！】【settings\default.cfg】可放置默认设置，【settings\bind.cfg】可放置默认按键设置
+
+//如有BUG，可反馈bilibili UP主 小CRQ
+
+【往期更新】
+【CFGSV1.0】
+1.全中文轮盘，并修改轮盘触发方式 ，使其只需要一个键就可以快速触发更换模式【全网目前独家】
+2.cfg整合内容有
+     【五彩准心-目前与双准心不适配】
+     【世界之窗准心】
+     【双准心-默认启用】
+     【连跳模式-5e】
+     【陀螺模式—重点项目】
+3.修改了陀螺模式下的移动方式，急停更快，旋转中全方向无冲移动
+4.不会再有卡移动的情况发生[暂时没遇到]
+
+
