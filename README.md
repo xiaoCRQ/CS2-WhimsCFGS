@@ -1,3 +1,4 @@
+![image](https://github.com/xiaoCRQ/edit/main/ditou.jpg)
 # CS2-WhimsCFGS
 是在cs2利用各种CFG触发方式实现各种功能，可以轻松自定义和扩展您的配置。
 
