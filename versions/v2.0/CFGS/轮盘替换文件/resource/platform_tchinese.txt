@@ -74,6 +74,12 @@
 	"CFG_Mirage_VIPTotal"                    "T出生位快速VIP烟"
 
 	"CFG_MODE"                    "模式切换"
+	"CFG_MODE_COLORFUL_CRO"                    "炫彩准星"
+	"CFG_MODE_COLORFUL_CRO_ON"                    "[开启]炫彩准星"
+	"CFG_MODE_COLORFUL_CRO_OFF"                    "[关闭]炫彩准星"
+	"CFG_MODE_COLORFUL_UI"                    "炫彩UI"
+	"CFG_MODE_COLORFUL_UI_ON"                    "[开启]炫彩UI"
+	"CFG_MODE_COLORFUL_UI_OFF"                    "[关闭]炫彩UI"
 	"CFG_MODE_SPIN"                    "陀螺模式"
 	"CFG_MODE_SPIN_ON"                    "[开启]陀螺模式"
 	"CFG_MODE_SPIN_OFF"                    "[关闭]陀螺模式"
@@ -93,7 +99,7 @@
 	"CFG_MODE_DEFAULT"                    "重载默认"
 	"CFG_MODE_WINDOW"                    "世界之窗"
 	"CFG_NULL"                    "配置暂无"
-	"CFG_DOUBLE_ARROW"                    "<———--—-->"
+	"CFG_DOUBLE_ARROW"                    "<————--—-->"
 
 	"gunlunpan_pistols"                    "手枪"
 	"gunlunpan_midtier"                    "短枪"
